@@ -47,8 +47,8 @@ All simulations and results generated using this software comply with the terms 
 
 ## Plagiarism Notice
 
-This project is an original student work. If any part of the content appears similar to existing sources or seems like plagiarism, please notify the author. Appropriate credits and citations will be promptly added or corrected.  
-Due to resource limitations, this work has not undergone formal plagiarism checking.
+This project is an original student work. If any part of the content appears similar to existing sources or seems like plagiarism, please notify the author. Appropriate credits and citations will be promptly added or corrected. Due to resource limitations, this work has not undergone formal plagiarism checking.
+
 ---
 
 ### Contact
