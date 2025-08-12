@@ -27,6 +27,18 @@ This repository presents a numerical study of a 2D shear mixing layer (Delville 
 ├── LICENSE # CC BY-NC 4.0 License
 └── README.md # This file
 
+## References
+
+1. ANSYS Inc. *ANSYS Fluent Theory Guide*. ANSYS Inc., Canonsburg, PA, release 2022 R1 edition, 2022. Available from ANSYS documentation portal.
+
+2. J. Delville, S. Bellin, J. H. Garem, and J. P. Bonnet. *Analysis of structures in a turbulent, plane mixing layer by use of a pseudo flow visualization method based on hot-wire anemometry*. In Hans-Hermann Fernholz and Heinrich E. Fiedler, editors, Advances in Turbulence 2, pages 251–256, Berlin, Heidelberg, 1989. Springer Berlin Heidelberg.
+
+3. NASA Langley Research Center. *2D mixing layer validation case*, n.d. Accessed: 2025-08-08.
+
+4. Philippe R. Spalart and Steven R. Allmaras. *A one-equation turbulence model for aerodynamic flows*. AIAA Paper 92-0439, 1992.
+
+5. D. C. Wilcox. *Turbulence models and their application to complex flows*. NASA Technical Report NASA/TM-1998-208694, NASA Langley Research Center, 1998. Version 4.01.
+
 ## License
 
 This work is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
