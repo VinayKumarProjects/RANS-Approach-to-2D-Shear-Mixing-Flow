@@ -45,6 +45,10 @@ The ANSYS Student Version software used in this project is licensed solely for *
 All simulations and results generated using this software comply with the terms and conditions set forth by ANSYS Inc.  
 **This repository is intended for academic sharing only and is not for commercial use or financial gain.**
 
+## Plagiarism Notice
+
+This project is an original student work. If any part of the content appears similar to existing sources or seems like plagiarism, please notify the author. Appropriate credits and citations will be promptly added or corrected.  
+Due to resource limitations, this work has not undergone formal plagiarism checking.
 ---
 
 ### Contact
