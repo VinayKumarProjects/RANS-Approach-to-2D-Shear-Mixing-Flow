@@ -21,11 +21,24 @@ This repository presents a numerical study of a 2D shear mixing layer (Delville 
 
 ## 📁 Repository Structure
 ├── meshes/ # Mesh files (.msh or export)
-├── case-files/ # Fluent case and data files
+├── case-files/ # Fluent case and data files (Simulation Files)
 ├── plots/ # Velocity profiles, contour plots, etc.
 ├── report/ # Final report or summary PDF (optional)
 ├── LICENSE # CC BY-NC 4.0 License
 └── README.md # This file
+
+Note: ## case-files (Simulation Files)
+
+The repository includes a ZIP archive containing ANSYS Fluent case and data files for three different mesh configurations used in the grid sensitivity study:
+
+- **29K cells** – Coarse mesh
+- **58K cells** – Medium-resolution mesh (balanced accuracy and computational cost)
+- **116K cells** – Fine mesh (high-resolution for detailed flow capture)
+
+Each mesh configuration includes:
+- `.cas` – Case file with solver settings, turbulence model, boundary conditions, etc.
+- `.dat` – Data file with simulation results
+
 
 ## References
 
